@@ -1,0 +1,5 @@
+﻿  Source.cpp
+D:\c++\source\source\Source.cpp(34,10): warning C4101: 'dest': unreferenced local variable
+D:\c++\source\source\Source.cpp(86,14): warning C4101: 'buff': unreferenced local variable
+D:\c++\source\source\Source.cpp(140,27): warning C4018: '<': signed/unsigned mismatch
+D:\c++\source\source\Source.cpp(107,5): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.

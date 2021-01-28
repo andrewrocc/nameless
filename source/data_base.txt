@@ -1,0 +1,5 @@
+¹ of train: 2
+destination: mi
+days on the way: 4
+arrival time: 23.45
+departure time: 14.5
