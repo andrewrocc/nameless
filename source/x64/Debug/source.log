@@ -1,4 +1,0 @@
-﻿  Source.cpp
-D:\c++\source\source\Source.cpp(11,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-D:\c++\source\source\Source.cpp(40,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
-  source.vcxproj -> D:\c++\source\x64\Debug\source.exe
